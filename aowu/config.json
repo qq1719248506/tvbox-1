@@ -1,5 +1,5 @@
 {
-	"spider": "https://0890.dpdns.org/wnqiwnquidwiunddneudne/custom_spider.jar",
+	"spider": "https://aw.0890.dpdns.org/wnqiwnquidwiunddneudne/custom_spider.jar",
 	"logo": "https://gitee.com/amg99/tvjson/raw/master/img/dysmt.gif",
 	"sites": [{
 			"name": "💬嗷嗚彈幕",
@@ -21,7 +21,7 @@
 			"filterable": 0,
 			"quickSearch": 0,
 			"changeable": 0,
-			"ext": "https://0890.dpdns.org/wnqiwnquidwiunddneudne/json/github.json"
+			"ext": "https://aw.0890.dpdns.org/wnqiwnquidwiunddneudne/json/github.json"
 		},
 		{
 			"name": "🎉Bili",
@@ -46,7 +46,7 @@
 			"filterable": 1,
 			"quickSearch": 1,
 			"changeable": 1,
-			"ext": "https://0890.dpdns.org/wnqiwnquidwiunddneudne/json/guazi.json"
+			"ext": "https://aw.0890.dpdns.org/wnqiwnquidwiunddneudne/json/guazi.json"
 		},
 		{
 			"name": "🎭杜北",
@@ -57,7 +57,7 @@
 			"filterable": 1,
 			"quickSearch": 1,
 			"changeable": 1,
-			"ext": "https://0890.dpdns.org/wnqiwnquidwiunddneudne/json/dubk.json"
+			"ext": "https://aw.0890.dpdns.org/wnqiwnquidwiunddneudne/json/dubk.json"
 		},
 		{
 			"name": "🌱春天",
@@ -89,7 +89,7 @@
 			"filterable": 1,
 			"quickSearch": 1,
 			"changeable": 1,
-			"ext": "https://0890.dpdns.org/wnqiwnquidwiunddneudne/json/jpian.json"
+			"ext": "https://aw.0890.dpdns.org/wnqiwnquidwiunddneudne/json/jpian.json"
 		},
 		{
 			"name": "🔥热播",
@@ -157,16 +157,6 @@
 			"key": "厂长",
 			"type": 3,
 			"api": "csp_CzzyAmns",
-			"searchable": 1,
-			"filterable": 1,
-			"quickSearch": 1,
-			"changeable": 1
-		},
-		{
-			"name": "📽️LIBVIO",
-			"key": "LIBVIO",
-			"type": 3,
-			"api": "csp_LibvioAmns",
 			"searchable": 1,
 			"filterable": 1,
 			"quickSearch": 1,
@@ -686,7 +676,7 @@
 		},
 		{
 			"name": "港台",
-			"url": "http://8.220.193.88:5000/?type=m3u&proxy=true"
+			"url": "http://152.32.229.52:5050/?type=m3u&proxy=true"
 		},
 		{
 			"name": "英超+NBA",
