@@ -872,6 +872,16 @@
             "timeout": 60
         },
         {
+            "key": "影链",
+            "name": "影链｜搜索",
+            "type": 3,
+            "api": "csp_Yinglian",
+            "searchable": 1,
+            "quickSearch": 0,
+            "filterable": 0,
+            "timeout": 60
+        },
+        {
             "key": "酷乐",
             "name": "酷乐｜搜索",
             "type": 3,
